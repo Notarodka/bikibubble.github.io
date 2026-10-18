@@ -2,7 +2,7 @@
   'use strict';
 
   // TODO: swap in the real link the credits badge should open
-  const CREDITS_URL = 'https://instagram.com/REPLACE_ME';
+  const CREDITS_URL = 'https://instagram.com/maddkadd';
 
   const svg = document.querySelector('svg');
   const SVG_NS = 'http://www.w3.org/2000/svg';
